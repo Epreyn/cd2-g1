@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "RogueLike_CD2_2022/1.0.0": {
+        "runtime": {
+          "RogueLike_CD2_2022.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "RogueLike_CD2_2022/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

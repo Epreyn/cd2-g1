@@ -1,0 +1,15 @@
+/Users/pierre/RiderProjects/RogueLike_CD2_2022/RogueLike_CD2_2022/bin/Debug/net6.0/RogueLike_CD2_2022
+/Users/pierre/RiderProjects/RogueLike_CD2_2022/RogueLike_CD2_2022/bin/Debug/net6.0/RogueLike_CD2_2022.deps.json
+/Users/pierre/RiderProjects/RogueLike_CD2_2022/RogueLike_CD2_2022/bin/Debug/net6.0/RogueLike_CD2_2022.runtimeconfig.json
+/Users/pierre/RiderProjects/RogueLike_CD2_2022/RogueLike_CD2_2022/bin/Debug/net6.0/RogueLike_CD2_2022.dll
+/Users/pierre/RiderProjects/RogueLike_CD2_2022/RogueLike_CD2_2022/bin/Debug/net6.0/RogueLike_CD2_2022.pdb
+/Users/pierre/RiderProjects/RogueLike_CD2_2022/RogueLike_CD2_2022/obj/Debug/net6.0/RogueLike_CD2_2022.csproj.AssemblyReference.cache
+/Users/pierre/RiderProjects/RogueLike_CD2_2022/RogueLike_CD2_2022/obj/Debug/net6.0/RogueLike_CD2_2022.GeneratedMSBuildEditorConfig.editorconfig
+/Users/pierre/RiderProjects/RogueLike_CD2_2022/RogueLike_CD2_2022/obj/Debug/net6.0/RogueLike_CD2_2022.AssemblyInfoInputs.cache
+/Users/pierre/RiderProjects/RogueLike_CD2_2022/RogueLike_CD2_2022/obj/Debug/net6.0/RogueLike_CD2_2022.AssemblyInfo.cs
+/Users/pierre/RiderProjects/RogueLike_CD2_2022/RogueLike_CD2_2022/obj/Debug/net6.0/RogueLike_CD2_2022.csproj.CoreCompileInputs.cache
+/Users/pierre/RiderProjects/RogueLike_CD2_2022/RogueLike_CD2_2022/obj/Debug/net6.0/RogueLike_CD2_2022.dll
+/Users/pierre/RiderProjects/RogueLike_CD2_2022/RogueLike_CD2_2022/obj/Debug/net6.0/refint/RogueLike_CD2_2022.dll
+/Users/pierre/RiderProjects/RogueLike_CD2_2022/RogueLike_CD2_2022/obj/Debug/net6.0/RogueLike_CD2_2022.pdb
+/Users/pierre/RiderProjects/RogueLike_CD2_2022/RogueLike_CD2_2022/obj/Debug/net6.0/RogueLike_CD2_2022.genruntimeconfig.cache
+/Users/pierre/RiderProjects/RogueLike_CD2_2022/RogueLike_CD2_2022/obj/Debug/net6.0/ref/RogueLike_CD2_2022.dll
