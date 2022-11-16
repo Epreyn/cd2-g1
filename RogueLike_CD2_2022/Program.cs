@@ -1,18 +1,32 @@
 ﻿using RogueLike_CD2_2022;
 
-Player player = new Player();
-Map map = new Map();
+GameManager gameManager;
+Player player;
+Map map;
 
-map.CreateMap();
+gameManager = new GameManager();
 
-while (true) {
-    Console.Clear();
-    player.DisplayPlayer(map.Tiles);
-    map.DisplayMap();
-    player.MovePlayer();
+while (!gameManager.isTerminate) {
+    gameManager = new GameManager();
+    player = new Player();
+    map = new Map();
     
+    map.CreateMap();
+    map.CreateWalls(map.wallsNumber());
+    player.PlacePlayer(map);
     
+    while (!gameManager.isReset) {
+        Console.Clear();
+        player.DisplayPlayer(map.Tiles);
+        map.DisplayMap();
+        player.MovePlayer(gameManager, map.Tiles);
+    }
 }
+
+
+
+
+
 
 
 

@@ -24,15 +24,15 @@ public class Tile {
 
         switch (type) {
             case TileType.Ground:
-                Sprite = '.';
+                Sprite = '·';
                 IsPassable = true;
-                Color = ConsoleColor.Gray;
+                Color = ConsoleColor.DarkGray;
                 break;
             
             case TileType.Wall:
-                Sprite = 'X';
+                Sprite = '¶';
                 IsPassable = false;
-                Color = ConsoleColor.Magenta;
+                Color = ConsoleColor.DarkGreen;
                 break;
         }
     }
